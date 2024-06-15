@@ -1,0 +1,19 @@
+Project aim: create a free space that can be used for either crypto trading and a monitored* forum that's minimalistic as possible.
+(* MONITORED - Users are free to use the message posting system, if it adheres to anti-hate speech regulations. This implies that cursing is not allowed.)
+
+Thanks to apache and ubuntu this Open Source web page was able to be created.
+
+We recommend that you read the policies below before posting:
+
+
+Webpage Policy:
+We do not stand to spread hate speech, we cannot combat the spread of misinformation (spam filters in-place) and will not stop political arguments.
+We do not allow advertisements, especially illegal content we will take it down, this is not a political statement from developers, this website aims to be free, legal, and respectable.
+We accept donations and gather cookies, no ads will be run. 
+
+We hope you enjoy this space. 
+
+Developers: 
+Akira Patafio	Email - akirapat421111@outlook.com
+UNKNOWN
+UNKNOWN
